@@ -45,7 +45,7 @@
         </dependency>
     </dependencies>
 
-    <!-- 父项目统一管理依赖版本号，子模块需重写依赖，但不需要写版本号 -->
+    <!-- 父项目统一管理依赖版本号(父项目不实际依赖)，子模块需重写依赖，但不需要写版本号 -->
     <dependencyManagement>
         <dependencies>
             <!-- dubbo依赖 -->

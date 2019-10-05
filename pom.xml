@@ -22,7 +22,7 @@
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
 
-    <!-- 子模块直接继承的依赖 -->
+    <!-- 子模块直接继承以下依赖 -->
     <dependencies>
         <!-- 注释的项目生成配置元数据文件 -->
         <dependency>
